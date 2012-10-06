@@ -8,13 +8,17 @@ We have the right to not post all the source code, and if we choose to do that, 
 (We dont plan on doing this a lot)
 
 NOTE:
-The JMMods folder contains the images, just drag that in the jar, the common is the src
+The JMMods folder contains the images, just drag that in the jar, the common is the src.
+
 
 
 
 
 Thank You,
-Joshua    - MrBlockPlacer
-Mike      - gravitythief
+
+Joshua - MrBlockPlacer
+
+Mike - gravitythief
+
 
 Copyright (c) 2012 MrBlockPlacer, Inc.
